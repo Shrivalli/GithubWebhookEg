@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eImUc7c5Tzo8ky1lnJmghp4AK9K6TRz9CYs9WWgtK6dEcAH5lkhN0GIxNEr+khmqj7lC3qGhbG2fD0KtO0EtVg==",
+  "success": true,
+  "projectFilePath": "H:\\AWS\\DevopsParishaPrj\\DevopsParishaPrj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
