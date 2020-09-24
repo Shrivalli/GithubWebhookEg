@@ -12,7 +12,10 @@ namespace DevopsParishaPrj.Controllers
     public class ValuesController : ControllerBase
     {
         public List<string> ls = new List<string>();
-        
+        /// <summary>
+        /// Get method 
+        /// </summary>
+        /// <returns>List of string</returns>
         [Route("getnames")]
         [HttpGet]
         public List<string> getnames()
