@@ -20,8 +20,11 @@ namespace DevopsParishaPrj.Controllers
         [HttpGet]
         public List<string> getnames()
         {
+            //List modified
             ls.Add("Ram");
             ls.Add("Radha");
+            ls.Add("Vandhana");
+            ls.Add("Sirisha");
             return ls;
         }
     }
