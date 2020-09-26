@@ -9,6 +9,9 @@ namespace DevopsParishaPrj.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    ///<summary>
+    ///Employee Controller Added
+    ///</summary>
     public class EmployeeController : ControllerBase
     {
     }
