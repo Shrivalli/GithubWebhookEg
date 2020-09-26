@@ -15,5 +15,9 @@ namespace DevopsParishaPrj.Controllers
     public class EmployeeController : ControllerBase
     {
         //Empcontroller modified
+        public string add()
+        {
+            return "add";
+        }
     }
 }
