@@ -19,5 +19,10 @@ namespace DevopsParishaPrj.Controllers
         {
             return "add";
         }
+        
+        public string sub()
+        {
+        return "sub";
+        }
     }
 }
