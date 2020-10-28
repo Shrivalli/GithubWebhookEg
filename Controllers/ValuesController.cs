@@ -26,6 +26,7 @@ namespace DevopsParishaPrj.Controllers
             ls.Add("Vandhana");
             ls.Add("Sirisha");
             ls.Add("WebhookEg");
+            ls.Add("Sample Data Added");
             return ls;
         }
     }
